@@ -1,5 +1,8 @@
 # employee-management-api
 
+Commands
+'npm run dev' to run the application on default port 3001
+
 Requirement
 1. Create a sign-up and login module for a web application.
 2. Create a dashboard screen where logged in user can add Employee details:
